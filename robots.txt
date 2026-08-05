@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://yigiterozan.com.tr/sitemap.xml

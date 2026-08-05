@@ -1,1 +1,0 @@
-console.log("Yiğit Erozan Official Website");

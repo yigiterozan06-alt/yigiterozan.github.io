@@ -1,0 +1,128 @@
+/* Genel Stil Yapılandırması */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: #0d0d0d;
+    color: #e6e6e6;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header / Hero */
+.hero {
+    padding: 100px 0 60px 0;
+    text-align: center;
+    border-bottom: 1px solid #222;
+}
+
+.hero h1 {
+    font-size: 2.8rem;
+    letter-spacing: 4px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.hero .subtitle {
+    font-size: 1.1rem;
+    color: #888;
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
+
+.social-links {
+    margin-top: 25px;
+}
+
+.social-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.3s ease;
+}
+
+.social-links a:hover {
+    border-bottom-color: #fff;
+}
+
+/* İçerik Bölümleri */
+.section {
+    padding: 50px 0;
+    border-bottom: 1px solid #1a1a1a;
+}
+
+.section h2 {
+    font-size: 1.4rem;
+    color: #fff;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.section p {
+    color: #aaa;
+    font-size: 1rem;
+}
+
+/* Proje Listesi */
+.project-list {
+    list-style: none;
+}
+
+.project-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0;
+    border-bottom: 1px solid #161616;
+}
+
+.project-list .year {
+    color: #666;
+    width: 60px;
+}
+
+.project-list .title {
+    color: #ddd;
+    flex-grow: 1;
+}
+
+.project-list .role {
+    color: #888;
+}
+
+/* Video / Showreel Area */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 40px 0;
+    color: #444;
+    font-size: 0.8rem;
+}

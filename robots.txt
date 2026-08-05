@@ -1,0 +1,18 @@
+# robots.txt for Yiğit Erozan Portfolio
+
+User-agent: *
+Allow: /
+
+# Disallow specific directories if needed
+Disallow: /assets/
+Disallow: /private/
+
+# Allow specific asset directories for indexing
+Allow: /assets/images/
+Allow: /assets/videos/
+
+# Sitemap location
+Sitemap: https://yigiterozan.com.tr/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1

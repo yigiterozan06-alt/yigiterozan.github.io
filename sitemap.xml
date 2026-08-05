@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Main Page -->
+    <url>
+        <loc>https://yigiterozan.com.tr/</loc>
+        <lastmod>2024-08-05</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- About Section -->
+    <url>
+        <loc>https://yigiterozan.com.tr/#hakkimda</loc>
+        <lastmod>2024-08-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Projects Section -->
+    <url>
+        <loc>https://yigiterozan.com.tr/#projeler</loc>
+        <lastmod>2024-08-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Gallery Section -->
+    <url>
+        <loc>https://yigiterozan.com.tr/#galeri</loc>
+        <lastmod>2024-08-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Showreel Section -->
+    <url>
+        <loc>https://yigiterozan.com.tr/#showreel</loc>
+        <lastmod>2024-08-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Timeline Section -->
+    <url>
+        <loc>https://yigiterozan.com.tr/#takvim</loc>
+        <lastmod>2024-08-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Contact Section -->
+    <url>
+        <loc>https://yigiterozan.com.tr/#iletisim</loc>
+        <lastmod>2024-08-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
